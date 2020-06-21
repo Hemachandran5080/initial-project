@@ -1,0 +1,80 @@
+div {
+    display: inline-block;
+}
+
+.right {
+    float: right;
+}
+
+
+/* a {
+    color: black;
+    margin: 40px;
+} */
+
+h1 {
+    color: #fff;
+    font-size: 170%;
+    margin: 20px;
+    font-size: 4.325rem;
+    text-shadow: 4px 4px #3385ff;
+}
+
+p {
+    color: #d4f3ef;
+    text-align: center;
+    font-family: Arial;
+    font-size: 280%;
+    margin: 0;
+    padding: 0;
+    text-shadow: 2px 2px #3385ff;
+}
+
+#para {
+    font-size: 150%;
+}
+
+#link {
+    text-align: center;
+}
+
+#link1 {
+    display: inline-block;
+    text-decoration: none;
+    background: rgb(128, 128, 255, 0.7);
+    font-size: 135%;
+    font-family: Arial;
+    border-radius: 17px;
+    width: 12rem;
+    height: 3rem;
+    color: white;
+}
+
+#link1:hover {
+    background: rgb(77, 77, 255);
+}
+
+#link1:focus {
+    background: rgb(77, 77, 255);
+}
+
+#link1 :active {
+    border: 3px solid #000000;
+}
+
+.para1 {
+    display: none;
+}
+
+.links {
+    display: none;
+}
+
+.sign-up {
+    position: relative;
+    margin-left: 45%;
+}
+
+.sign-up-button {
+    margin-top: 60%;
+}
